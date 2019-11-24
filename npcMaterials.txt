@@ -1,0 +1,4 @@
+White Wool : 8,998
+Light Gray Wool : 6,476
+Gray Wool : 606
+Black Wool 404
