@@ -1,0 +1,5 @@
+Yellow Wool : 11,566
+Orange Wool : 2,950
+Gray Wool : 1,346
+Black Wool : 418
+Light Gray Wool : 104
